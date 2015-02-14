@@ -26,13 +26,13 @@ void loop()
 {
   // read the value on analog input
   int sum = 0;
-  for(int i=0;i<10;i++)
+  for(int i=0;i<20;i++)
   {
     sum+=analogRead(A0);
     delay(30);    
   }
   //Serial.println(sum/10);
-  if((sum/10)>=700)
+  if((sum/20)>=700)
   {
     if(flag != 1)
     {
