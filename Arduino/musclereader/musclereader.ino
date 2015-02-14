@@ -32,7 +32,7 @@ void loop()
     delay(30);    
   }
   //Serial.println(sum/10);
-  if((sum/20)>=700)
+  if((sum/20)>=500)
   {
     if(flag != 1)
     {
