@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=Teqs34rAfFM
 ECE PULSE is a major conference that happens every year in UIUC that celebrates advances in electrical and computer engineering. As part of the conference, there are multiple student competitions and our team took part in one of them, the signal processing challenge. [More information about the conference.](http://pulse.ece.illinois.edu/)
 
 ## The Task
-We were given the task of doing something unique or awesome with an EMG sensor. More specifically, we "_needed to lose weight fast to appear desirable to members of the opposite sex in any hopes of getting a date for Valentine’s Day_" through signal processing techniques. ([Competitiion prompt can be found here](http://pulse.ece.illinois.edu/?pg=snp))
+We were given the task of doing something unique or awesome with an EMG sensor. More specifically, we _"needed to lose weight fast to appear desirable to members of the opposite sex in any hopes of getting a date for Valentine’s Day"_ through signal processing techniques. ([Competitiion prompt can be found here](http://pulse.ece.illinois.edu/?pg=snp))
 
 ## Our Solution
 Our project, Reps48008, is a personal fitness motivator that helps to count your reps when lifting weights. Not only that, it uses a customizable gallery of images that will show up one by one for each set. For each set, the image will start out with the lowest resolution possible and it will increase until it reaches the maximum resolution when you reach the final rep of the set. It will reset at the end of the set so that you know you are done with the set.
