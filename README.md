@@ -19,3 +19,10 @@ We process the data coming out of a differential op amp circuit (the EMG sensor)
 ## Thanks
 Thanks to the ECE PULSE Committee for organizing this competition and giving us the opportunity! We had loads of fun!
 
+## Members
+
+[Brady Salz](bradysalz.com)
+[Dario Aranguiz](https://github.com/daranguiz)
+[Sulaiman Ahmed Suhyl](http://ahmedsuhyl.com)
+
+
