@@ -21,7 +21,7 @@ Thanks to the ECE PULSE Committee for organizing this competition and giving us 
 
 ## Members
 
-[Brady Salz](bradysalz.com)
+[Brady Salz](http://bradysalz.com)
 
 [Dario Aranguiz](https://github.com/daranguiz)
 
