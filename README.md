@@ -28,6 +28,6 @@ Thanks to the ECE PULSE Committee for organizing this competition and giving us 
 
 [Sulaiman Ahmed Suhyl](http://ahmedsuhyl.com)
 
-Check out our last project, [NextWave](https://github.com/kashev/nextWAVE), that got [featured on HackaDay](http://hackaday.com/2014/04/14/smart-microwave-shows-you-how-its-done/)!
+Check out our last project, [nextWAVE](https://github.com/kashev/nextWAVE), that got [featured on HackaDay](http://hackaday.com/2014/04/14/smart-microwave-shows-you-how-its-done/)!
 
 
