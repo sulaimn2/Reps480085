@@ -30,4 +30,6 @@ Thanks to the ECE PULSE Committee for organizing this competition and giving us 
 
 Check out our last project, [nextWAVE](https://github.com/kashev/nextWAVE), that got [featured on Hackaday](http://hackaday.com/2014/04/14/smart-microwave-shows-you-how-its-done/)!
 
-
+## Update
+We won! We each got a Fitbit Flex!
+![](/prize.JPG)
