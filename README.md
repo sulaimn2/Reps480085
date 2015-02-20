@@ -32,4 +32,4 @@ Check out our last project, [nextWAVE](https://github.com/kashev/nextWAVE), that
 
 ## Update
 We won! We each got a Fitbit Flex!
-![](/prize.JPG)
+![](/prize.jpg)
